@@ -25,7 +25,7 @@ A brief about me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk-yadav&layout=compact)
 
 ### Be Social 
-[![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
+[![Twitter: Ashish](https://img.shields.io/twitter/follow/alokc83?style=social)]((https://x.com/AshishkYadavAI))
 [![Linkedin: Ashish Yadav](https://img.shields.io/badge/-AshishYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishkyadav07/)](https://www.linkedin.com/in/ashishkyadav07/)
 [![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/ashishk-yadav)
 
