@@ -82,15 +82,7 @@ Welcome! This portfolio showcases a collection of AI automation projects that de
 
 ---
 
-## 📄 About
 
-**Contact:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Blog:** [Your Tech Blog]  
-
----
-
-Explore the linked repositories for real working examples, and visit my [GitHub profile](https://github.com/ashishk-yadav) for my own projects and contributions.
 
 *This portfolio is continuously updated with new projects and improvements!*
 
