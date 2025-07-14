@@ -26,7 +26,7 @@ A brief about me
 
 ### Be Social 
 [![Twitter: alokc83](https://img.shields.io/twitter/follow/alokc83?style=social)](https://twitter.com/alokc83)
-[![Linkedin: Ashish Yadav](https://img.shields.io/badge/-AshishYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-yadav-pmp-csm-56800014/)](https://www.linkedin.com/in/ashish-yadav-pmp-csm-56800014/)
+[![Linkedin: Ashish Yadav](https://img.shields.io/badge/-AshishYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashishkyadav07)](www.linkedin.com/in/ashishkyadav07)
 [![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)](https://github.com/ashishk-yadav)
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
