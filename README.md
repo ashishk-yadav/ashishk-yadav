@@ -1,6 +1,6 @@
 # Aboutme
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+efficiency+and+quality+.;I+help+businesses+improve+their+productivity+by+identifying+and+implementing+automations+utilizing+latest+tech+stack.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=70&lines=Full+stack+web+and+app+developer;Passionate+about+Automations+and+productivity;Always+learning+and+open+to+collaboration)](https://git.io/typing-svg)
 <!--<br>
 ### Publications 
 [![Medium](https://github.com/alokc83/alokc83/blob/master/images/medium.svg)](https://medium.com/@alok.ch83)
