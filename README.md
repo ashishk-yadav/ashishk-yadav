@@ -1,6 +1,5 @@
 # Aboutme
-I am passionate about efficiency and quality. I help businesses improve their productivity by identifying and implementing automations utilizing latest tech stack.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+efficiency+and+quality+.;I+help+businesses+improve+their+productivity+by+identifying+and+implementing+automations+utilizing+latest+tech+stack.)](https://git.io/typing-svg)
 
 <!--<br>
 ### Publications 
